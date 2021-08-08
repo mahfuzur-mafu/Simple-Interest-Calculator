@@ -20,7 +20,7 @@ An interest calculator or loan calculator is a Python GUI based mini project. A 
 •	Faced Some little bugs.
 
 
-# nclusion : 
+# Conclusion : 
 This was a great experience doing this mini project. This project was intended to make the simple interest calculation system easier and reliable and a number of people will benefit from using this application. The challenges I  faced and the learning that will come in great help in the future.
 
                                           ~~Thank you ~~ 
@@ -33,4 +33,5 @@ This was a great experience doing this mini project. This project was intended t
 
 
 Simple interest calculator © Md. Mahfuzur Rahman 
+
 ©2021 Md. Mahfuzur Rahman. All Rights Reserved
