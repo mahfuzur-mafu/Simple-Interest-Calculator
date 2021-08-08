@@ -6,10 +6,13 @@ An interest calculator or loan calculator is a Python GUI based mini project. A 
  
 # Implemented Software: 
 •	IDE : Pycharm Version: 2021.2
+
 •	Language: Python 3.9
 
 # Application Source Code :
 Git hub Repository  Name : Simple-Interest-Calculator
+
 Git hub Repository Link: https://github.com/mahfuzur-mafu/Simple-Interest-Calculator
+
 Google Drive link : https://drive.google.com/drive/folders/1XG8rNsWgHE8Wznhxgo1DjKJkJeoHqSix?usp=sharing
 
