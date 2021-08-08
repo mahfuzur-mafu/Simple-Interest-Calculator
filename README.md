@@ -16,7 +16,9 @@ An interest calculator or loan calculator is a Python GUI based mini project. A 
 
 # Chaenges Faced :
 •	Button is not working.
+
 •	Failed to load images in Background.
+
 •	Faced Some little bugs.
 
 
