@@ -3,6 +3,10 @@
 # Introduction: 
 An interest calculator or loan calculator is a Python GUI based mini project. A simple interest calculator is a utility tool that calculates the interest on loans or savings without compounding. You may calculate the simple interest on the principal amount on a daily, monthly, or yearly basis. The simple interest calculator has a formula box, where you enter the principal amount, annual rate, and period in days, months, or years. The calculator will display interest on the loan or the investment.
 
+# Flowchart
+
+![image](https://user-images.githubusercontent.com/63856744/128634468-b28c07cc-e3ad-4665-a2d3-5b1fdb10f71f.png)
+
 # Testing :
 
 ![image](https://user-images.githubusercontent.com/63856744/128627252-49538594-cd15-4738-b6fc-9c6bb10c5d93.png)
